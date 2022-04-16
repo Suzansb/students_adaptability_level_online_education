@@ -1,4 +1,4 @@
-# students_adaptability_level_online_education
+# Students Adaptability Level in Online Education
 Students’ Adaptability Level in school, college and university
 
 # Acknowledgements
